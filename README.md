@@ -36,3 +36,7 @@
 
 ## 🌐 Connect with me
 - <a href="https://www.linkedin.com/in/tero-luukkonen" target="_blank">LinkedIn</a>
+
+---
+
+📝 This line was added in a test branch.
