@@ -16,6 +16,12 @@
 - Robot Framework, Test Automation (basics)  
 - AI-assisted coding and learning (ChatGPT, GitHub Copilot)
 
+## 🎸 Music Production Tools  
+- Steinberg Cubase Pro  
+- Digital Audio Workstations (DAWs)  
+- Music production hardware (audio interfaces, microphones, monitors, MIDI controllers)  
+- Music production software (VST instruments, plugins, mixing & mastering tools)  
+
 ## 💼 Productivity & Collaboration Tools
 - Microsoft 365  
 - Google Workspace  
