@@ -3,7 +3,7 @@
 🎯 **Career changer into IT** – currently learning Python & Test Automation (Robot Framework).  
 💡 Currently participating in a recruitment training program (*Future ICT Talent, Saranen*).  
 🔎 Looking for an **internship opportunity in the IT field**.  
-🌱 Background in social services and youth work, now building a new path in IT and software testing.  
+🌱 Background in social services and youth work, now building a new path in IT  
 🎸 Guitarist and musician, with years of experience in music-related creative projects and teamwork.  
 
 ---
@@ -14,7 +14,7 @@
 - Visual Studio Code  
 - Basics of MySQL (Workbench & XAMPP)  
 - Robot Framework, Test Automation (basics)  
-- AI-assisted coding and learning (ChatGPT)  
+- AI-assisted coding and learning (ChatGPT, GitHub Copilot)
 
 ## 💼 Productivity & Collaboration Tools
 - Microsoft 365  
