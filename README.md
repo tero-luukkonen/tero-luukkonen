@@ -41,4 +41,4 @@
 ---
 
 ## 🌐 Connect with me
-- <a href="https://www.linkedin.com/in/tero-luukkonen" target="_blank">LinkedIn</a>
+- [LinkedIn](https://www.linkedin.com/in/tero-luukkonen)
