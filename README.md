@@ -1,10 +1,10 @@
 # Hi, I'm Tero Luukkonen 👋
 
-🎯 **Career changer into IT** – currently learning Python & Test Automation (Robot Framework).  
-💡 Currently participating in a recruitment training program (*Future ICT Talent, Saranen*).  
-🔎 Looking for an **internship opportunity in the IT field**.  
-🌱 Background in social services and youth work, now building a new path in IT  
-🎸 Guitarist and musician, with years of experience in music-related creative projects and teamwork.  
+🎯 Career changer into IT – learning Python, test automation (Robot Framework), and AI  
+💡 Participating in the Future ICT Talent recruitment training (Saranen)  
+🔎 Looking for an internship opportunity in the IT field  
+🌱 Background in social services and youth work – now building a new path in tech  
+🎸 Guitarist and musician with strong experience in creative projects and teamwork 
 
 ---
 
