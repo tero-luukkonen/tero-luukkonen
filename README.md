@@ -32,11 +32,11 @@
 
 - **Djentify – Riff Generator**  
   Python project that generates djent/metal-style guitar riffs with randomized rhythms.  
-  Includes MIDI export functionality.  
+  Includes MIDI export functionality. [python-programming-basics-2024-2025/djentify](./python-programming-basics-2024-2025/djentify)
 
 - **Python Basics – Exercises**  
   A collection of ~50 exercises completed during the JAMK *Programming Basics* course.  
-  Demonstrates practice with Python fundamentals.  
+  Demonstrates practice with Python fundamentals. [python-programming-basics-2024-2025/python-exercises](./python-programming-basics-2024-2025/python-exercises)
 
 ---
 
