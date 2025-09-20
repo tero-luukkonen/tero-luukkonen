@@ -39,7 +39,7 @@
   Demonstrates practice with Python fundamentals. [Python-exercises](https://github.com/tero-luukkonen/jamk-studies/tree/main/python-programming-basics-2024-2025/python-exercises)
 
 - **Databases - Exercises**
-  This folder contains assignments from the **Tietokannat (Databases)** course I completed at JAMK University of Applied Sciences Open University in 2024.
+  This folder contains assignments from the **Tietokannat (Databases)** course I completed at JAMK University of Applied Sciences Open University in 2024. [Databases - Exercises](https://github.com/tero-luukkonen/jamk-studies/tree/main/databases-2024)
 
 ---
 
