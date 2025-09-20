@@ -31,12 +31,15 @@
 ## 📂 Projects
 
 - **Djentify – Riff Generator**  
-  Python project that generates djent/metal-style guitar riffs with randomized rhythms.  
-  Includes MIDI export functionality. [python-programming-basics-2024-2025/djentify](https://github.com/tero-luukkonen/jamk-studies/tree/main/python-programming-basics-2024-2025/djentify)
+  Python project that generates (or at least tries its best to generate 😁) djent/metal-style guitar riffs with randomized rhythms.  
+  Includes MIDI export functionality. [Djentify](https://github.com/tero-luukkonen/jamk-studies/tree/main/python-programming-basics-2024-2025/djentify)
 
 - **Python Basics – Exercises**  
   A collection of ~50 exercises completed during the JAMK *Programming Basics* course.  
-  Demonstrates practice with Python fundamentals. [python-programming-basics-2024-2025/python-exercises](https://github.com/tero-luukkonen/jamk-studies/tree/main/python-programming-basics-2024-2025/python-exercises)
+  Demonstrates practice with Python fundamentals. [Python-exercises](https://github.com/tero-luukkonen/jamk-studies/tree/main/python-programming-basics-2024-2025/python-exercises)
+
+- **Databases - Exercises**
+  This folder contains assignments from the **Tietokannat (Databases)** course I completed at JAMK University of Applied Sciences Open University in 2024.
 
 ---
 
